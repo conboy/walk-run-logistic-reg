@@ -1,4 +1,4 @@
-# 390
+# Walk or Run Predictor Using a Linear Regression Model
 
 How to run for yourself:
 1. Delete everything inside `data` folder
